@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a5495a16712f2e44a8184680914eebb, type: 3}
+  m_Name: Raw wood
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 156024270370206934, guid: 2ade65a9f82494249b58c94a4483982f, type: 3}
+  type: 0
+  materialName: Raw wood
+  materialStar: 1
+  materialAtribute: Earth
